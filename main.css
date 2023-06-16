@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color:floralwhite
+  }
+
+.post {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.post-title {
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.post-intro {
+    text-align: justify;
+}
+
+.post-intro > span {
+    font-weight: bold;
+}
+
+.post-bottom {
+    margin-top: 20px;
+    border-top: 1px solid lightgray;
+}
+
+.post-bottom p {
+    text-align: justify;
+}
